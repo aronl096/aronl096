@@ -32,7 +32,7 @@ Interested in starting a career as a software engineer
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center">🌱 I’m currently learning Computer Science at Ariel University.</div>  
 
