@@ -23,7 +23,7 @@
 I'm a responsible and curious student of Computer Science at Ariel University, a team player, has the ability to analyze situations and quickly
 adapt in a dynamic environment, very creative with self-learning skills and great human relations.
 
-Interested in starting a career as a software engineer
+Interested in starting a career as a software engineer.
 
   
   
