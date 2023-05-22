@@ -32,20 +32,6 @@ Interested in starting a career as a software engineer
 
 
 
-<table><tr><td valign="top" width="100%">
-
-<div align="center">🌱 I’m currently learning Computer Science at Ariel University.</div>  
-
-
-</td><td valign="top" width="100%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
