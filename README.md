@@ -31,13 +31,13 @@ Interested in starting a career as a software engineer
 <br/>  
 
 
-## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 <div align="center">🌱 I’m currently learning Computer Science at Ariel University.</div>  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
@@ -63,31 +63,6 @@ Interested in starting a career as a software engineer
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
